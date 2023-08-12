@@ -1,0 +1,4 @@
+C:\Users\Илья\Desktop\Kits-master\bin\Debug\RandomizerPlugin.dll
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomizerPlugin.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomizerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomizerPlugin.dll

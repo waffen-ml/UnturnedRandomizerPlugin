@@ -1,0 +1,6 @@
+C:\Users\Desktop\Unturned\Servers\MyFirstRocketServer\Rocket\Plugins\Kits.dll
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomKits.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomKits.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Unturned\Servers\MyFirstRocketServer\Rocket\Plugins\RandomKits.dll
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomKits.dll
+C:\Users\Илья\Desktop\Kits-master\bin\Debug\RandomKits.dll

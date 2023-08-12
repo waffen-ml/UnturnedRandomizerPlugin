@@ -1,0 +1,4 @@
+C:\Users\Илья\Desktop\Kits-master\bin\Debug\RandomWeapons.dll
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomWeapons.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomWeapons.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Kits-master\obj\Debug\RandomWeapons.dll
